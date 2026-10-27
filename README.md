@@ -13,6 +13,7 @@
 
 ## 연락
 
+- 이메일: [kimmumin0413@gmail.com](mailto:kimmumin0413@gmail.com)
 - GitHub: [@moomin-web](https://github.com/moomin-web)
 - 오늘 이 QR을 스캔해 주셨다면 반갑습니다. 이야기 나눠 주세요.
 
