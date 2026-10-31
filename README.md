@@ -4,7 +4,7 @@
 
 # 김무민 (Mumin Kim)
 
-**Nevermind**에서 **Otter Workspace(오터멤)** 를 만들고 있습니다.
+**Otter Workspace(오터멤)** 를 만들고 있습니다.
 하나의 워크스페이스 안에서 모든 앱이 하나의 기억(Otter Memory)으로 일해, AI가 내놓는 결과가 일관되도록 하는 서비스입니다.
 TeX-Corps(한국 국가 i-Corps 프로그램)에서 미국 고객 발굴(Customer Discovery)을 진행하고 있습니다.
 
@@ -25,4 +25,4 @@ TeX-Corps(한국 국가 i-Corps 프로그램)에서 미국 고객 발굴(Custome
 
 ---
 
-*Hi, I'm Mumin Kim. I'm building Otter Workspace at Nevermind, where every app works from one shared memory.*
+*Hi, I'm Mumin Kim. I'm building Otter Workspace, where every app works from one shared memory.*
